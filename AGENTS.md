@@ -91,6 +91,7 @@ SOSC Maths is a high-fidelity, interactive mathematical tool designed for both s
 33. **Graphing Feature Decomposition:** Moved graph expression semantics into `src/core/math/graph/` and split graphing UI/state into `src/features/graphing-calculator/` (`useGraphingCalculator`, `GraphSidebar`, `GraphCanvas`, `GraphToolbar`). `src/components/GraphingCalculator.tsx` is now a compatibility export.
 34. **Assessment Core Decoupling:** Updated grading, equivalence, randomization, runtime, and submission building to use the `src/core/math/` facade and explicit assessment types (`ResolvedVariables`, `MonitoringSnapshot`, `SubmitReason`) instead of direct MathJS imports or central `any` contracts.
 35. **Teacher Sync Type Safety:** Guarded `TeacherSessionPage` time-limit rendering against missing session polling data by defaulting `durationSeconds` before minute conversion.
+36. **Firebase Hosting Automation:** Initialized Firebase Hosting configuration for the `sosc-maths` project and added GitHub Actions workflows for live and pull-request Firebase Hosting deployments.
 
 ## Active State & Roadmap
 
