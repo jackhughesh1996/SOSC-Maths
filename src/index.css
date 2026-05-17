@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+.mafs-light-theme {
+  --mafs-bg: white;
+  --mafs-fg: black;
+  --mafs-origin-color: black;
+  --mafs-line-color: #e5e7eb;
+  --grid-line-subdivision-color: #f3f4f6;
+  
+  --mafs-red: #ef4444;
+  --mafs-orange: #f97316;
+  --mafs-yellow: #eab308;
+  --mafs-green: #22c55e;
+  --mafs-blue: #3b82f6;
+  --mafs-indigo: #6366f1;
+  --mafs-violet: #8b5cf6;
+  --mafs-pink: #ec4899;
+}

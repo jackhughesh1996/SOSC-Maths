@@ -1,0 +1,6 @@
+{
+  "name": "MathGraph Pro",
+  "description": "A high-fidelity mathematical tool for calculation and interactive graphing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
