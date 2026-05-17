@@ -1,6 +1,6 @@
 /**
  * @anchor AGENTS.md
- * This file adheres to the MathGraph Pro Memory Bank architectural rules.
+ * This file adheres to the SOSC Maths Memory Bank architectural rules.
  * Update the 'Refactoring History' or 'Known Debt' in AGENTS.md upon modification.
  */
 export type {

@@ -180,7 +180,7 @@ export const SubmissionReport: React.FC<SubmissionReportProps> = ({ submission }
 
       {/* Footer */}
       <footer className="mt-20 pt-8 border-t border-slate-100 text-[10px] text-center text-slate-400 font-medium uppercase tracking-[0.2em] space-y-2">
-        <div>End of Record • MathGraph Pro Official Assessment Runtime</div>
+        <div>End of Record • SOSC Maths Official Assessment Runtime</div>
         <div>Generated {formatDate(new Date().toISOString())}</div>
       </footer>
 

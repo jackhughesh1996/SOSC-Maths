@@ -1,6 +1,6 @@
-# MathGraph Pro Assessment System
+# SOSC Maths Assessment System
 
-The MathGraph Pro Assessment System is a robust framework for creating, delivering, and grading mathematical tests. It supports randomization, adaptive routing, real-time proctoring, and standalone portable exports.
+The SOSC Maths Assessment System is a robust framework for creating, delivering, and grading mathematical tests. It supports randomization, adaptive routing, real-time proctoring, and standalone portable exports.
 
 ## 1. Dynamic Test Manifest
 All assessments are defined by a JSON manifest (`DynamicTestManifest`) following the `mathgraph-test-v1` schema.

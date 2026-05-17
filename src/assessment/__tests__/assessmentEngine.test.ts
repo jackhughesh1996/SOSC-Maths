@@ -204,7 +204,7 @@ describe("Rubric Scoring", () => {
 
 // RUNNER
 async function runAll() {
-  console.log("=== MathGraph Pro Assessment Test Suite ===\n");
+  console.log("=== SOSC Maths Assessment Test Suite ===\n");
   let passed = 0;
   let failed = 0;
 

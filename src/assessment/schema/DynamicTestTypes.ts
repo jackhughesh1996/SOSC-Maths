@@ -1,5 +1,5 @@
 /**
- * MathGraph Pro: Assessment System Types
+ * SOSC Maths: Assessment System Types
  * 
  * This file defines the core data structures for the dynamic test manifest,
  * student submissions, and rubric tracking.

@@ -1,4 +1,4 @@
-# Project Memory Bank: SOSC Maths (formerly MathGraph Pro)
+# Project Memory Bank: SOSC Maths
 
 ## Consistency Checklist (Read before every task)
 1. **Structural Change?** Update the `Component Architecture` section.
@@ -92,6 +92,7 @@ SOSC Maths is a high-fidelity, interactive mathematical tool designed for both s
 34. **Assessment Core Decoupling:** Updated grading, equivalence, randomization, runtime, and submission building to use the `src/core/math/` facade and explicit assessment types (`ResolvedVariables`, `MonitoringSnapshot`, `SubmitReason`) instead of direct MathJS imports or central `any` contracts.
 35. **Teacher Sync Type Safety:** Guarded `TeacherSessionPage` time-limit rendering against missing session polling data by defaulting `durationSeconds` before minute conversion.
 36. **Firebase Hosting Automation:** Initialized Firebase Hosting configuration for the `sosc-maths` project and added GitHub Actions workflows for live and pull-request Firebase Hosting deployments.
+37. **Brand Rename Completion:** Replaced remaining user-facing legacy brand and starter template labels with SOSC Maths across metadata, browser title, UI chrome, assessment runtime banners, reports, README, and documentation while preserving technical schema/storage identifiers.
 
 ## Active State & Roadmap
 

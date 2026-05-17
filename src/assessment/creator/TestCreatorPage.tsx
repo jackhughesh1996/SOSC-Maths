@@ -254,7 +254,7 @@ export const TestCreatorPage: React.FC = () => {
                <Blocks className="w-6 h-6 text-white" />
             </div>
             <div>
-               <h1 className="text-sm font-black uppercase tracking-widest text-slate-400">MathGraph Pro</h1>
+               <h1 className="text-sm font-black uppercase tracking-widest text-slate-400">SOSC Maths</h1>
                <div className="text-slate-900 font-bold truncate max-w-[200px] md:max-w-md">{manifest.title}</div>
             </div>
           </div>

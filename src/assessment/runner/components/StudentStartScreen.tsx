@@ -92,7 +92,7 @@ export const StudentStartScreen: React.FC<StudentStartScreenProps> = ({ manifest
         
         <div className="bg-slate-50 p-4 text-center">
           <p className="text-xs text-slate-400 font-medium uppercase tracking-wider">
-            Powered by MathGraph Pro • {manifest.engine.mathUtilsVersion}
+            Powered by SOSC Maths • {manifest.engine.mathUtilsVersion}
           </p>
         </div>
       </div>

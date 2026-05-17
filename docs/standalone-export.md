@@ -1,6 +1,6 @@
 # Standalone Assessment Export
 
-MathGraph Pro supports exporting any assessment manifest into a single, portable HTML file. This allows students to take tests offline or in environments where a central server is not available.
+SOSC Maths supports exporting any assessment manifest into a single, portable HTML file. This allows students to take tests offline or in environments where a central server is not available.
 
 ## How it works
 
@@ -8,7 +8,7 @@ The export process uses `esbuild` to bundle:
 - The React runtime
 - MathLive (Interactive Input)
 - MathJS (Symbolic Engine)
-- The MathGraph Assessment Runner
+- The SOSC Maths Assessment Runner
 - Your specific test manifest
 
 Everything is inlined into a single `.html` file.
